@@ -1,0 +1,15 @@
+Package: mingle
+Title: plot spatiotemporal network
+Version: 0.1
+Date: 2015-11-21
+Authors@R: c(person("Thomas", "Rosendal", role = c("aut", "cre"),
+    email = "trosendal@gmail.com"))
+Description: pretty moving dots
+License: GPL2
+Type: Package
+LazyLoad: yes
+Depends:
+    R(>= 3.2.0)
+Collate:
+    'data.R'
+RoxygenNote: 5.0.1
